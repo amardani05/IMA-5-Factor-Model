@@ -1,0 +1,5 @@
+# Streamlit dashboard dependencies (in addition to requirements.txt).
+# Install with:
+#     pip install -r requirements-streamlit.txt
+streamlit>=1.32.0
+plotly>=5.20.0

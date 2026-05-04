@@ -1,0 +1,38 @@
+{
+  "pitches": [
+    {
+      "pitch_id": "KRYS_SP26",
+      "ticker": "KRYS",
+      "model_type": "multiples",
+      "current_price": 266.04,
+      "expected_return": 0.328334741770801,
+      "probability_upside": 0.77462,
+      "risk_reward_ratio": 2.6250944442698665,
+      "generated_at": "2026-05-04T05:35:11.807960Z",
+      "thesis_summary": "KYRS wins if (1) international VYJUVEK launches deliver larger-than-\nmodeled catch-up revenue once Germany pricing finalizes in Q3 2026 and\nItaly launches clean, and (2) the HSV-1 platform re-rates as"
+    },
+    {
+      "pitch_id": "VIAV_SP26",
+      "ticker": "VIAV",
+      "model_type": "multiples",
+      "current_price": 55.33,
+      "expected_return": -0.3810241112558374,
+      "probability_upside": 0.0,
+      "risk_reward_ratio": 0.0,
+      "generated_at": "2026-05-04T05:35:10.733835Z",
+      "thesis_summary": "VIAV wins if (1) the Spirent Ethernet acquisition and a $30M\nrestructuring shift NSE toward 70%-margin software/validation revenue,\nlifting consolidated gross margins toward the mid-60s, and (2)\nhyper"
+    },
+    {
+      "pitch_id": "CRK_SP26",
+      "ticker": "CRK",
+      "model_type": "multiples",
+      "current_price": 17.36,
+      "expected_return": 1.1123400120091844,
+      "probability_upside": 0.99976,
+      "risk_reward_ratio": 67.52140366477694,
+      "generated_at": "2026-05-04T05:35:09.629755Z",
+      "thesis_summary": "CRK wins if (1) it monetizes its 69% Western Haynesville production lead\nand ~535K acres at the moment Legacy plays mature, while Pinnacle's\nrecapitalization in summer 2026 forces the market to assign"
+    }
+  ],
+  "generated_at": "2026-05-04T05:35:11.818873Z"
+}

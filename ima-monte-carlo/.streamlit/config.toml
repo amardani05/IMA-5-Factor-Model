@@ -1,0 +1,17 @@
+# Streamlit theming + server defaults for the IMA Monte Carlo dashboard.
+# Loaded automatically when streamlit runs from this directory.
+
+[theme]
+base = "light"
+primaryColor = "#1565C0"
+backgroundColor = "#FAFAFA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1A1A"
+font = "sans serif"
+
+[server]
+runOnSave = true
+headless = false
+
+[browser]
+gatherUsageStats = false

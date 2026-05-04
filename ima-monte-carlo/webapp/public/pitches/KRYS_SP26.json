@@ -1,0 +1,1356 @@
+{
+  "pitch_id": "KRYS_SP26",
+  "ticker": "KRYS",
+  "current_price": 266.04,
+  "model_type": "multiples",
+  "shares_outstanding": 30000000.0,
+  "is_draft": false,
+  "generated_at": "2026-05-04T05:35:11.807960Z",
+  "n_simulations": 50000,
+  "random_seed": 42,
+  "thesis_statement": "KYRS wins if (1) international VYJUVEK launches deliver larger-than-\nmodeled catch-up revenue once Germany pricing finalizes in Q3 2026 and\nItaly launches clean, and (2) the HSV-1 platform re-rates as KB801 and\nKB803 ophthalmology readouts at end of 2026 force the Street to price\nsix pipeline programs currently treated as zero-value optionality, with\nKB407 cystic fibrosis alone representing a $500M-$1B+ peak annual\nopportunity.",
+  "thesis_validation": {
+    "valid": true,
+    "warnings": [],
+    "word_count": 69,
+    "driver_count_estimate": 2,
+    "is_placeholder": false
+  },
+  "distribution": {
+    "mean": 353.39017470070394,
+    "median": 344.4448387358809,
+    "std": 106.0572877956271,
+    "min": 100.0113642740138,
+    "max": 677.9995051530922,
+    "percentiles": {
+      "05": 190.2554027819479,
+      "10": 218.28924989009604,
+      "25": 274.0501005565678,
+      "50": 344.4448387358809,
+      "75": 429.8118260564651,
+      "90": 499.3092578720934,
+      "95": 536.359903752992
+    },
+    "histogram": {
+      "edges": [
+        100.0113642740138,
+        107.23621603500229,
+        114.46106779599076,
+        121.68591955697924,
+        128.91077131796771,
+        136.1356230789562,
+        143.3604748399447,
+        150.58532660093317,
+        157.81017836192166,
+        165.03503012291014,
+        172.2598818838986,
+        179.4847336448871,
+        186.70958540587557,
+        193.93443716686403,
+        201.15928892785251,
+        208.384140688841,
+        215.6089924498295,
+        222.83384421081797,
+        230.05869597180646,
+        237.28354773279491,
+        244.5083994937834,
+        251.7332512547719,
+        258.95810301576034,
+        266.18295477674883,
+        273.4078065377373,
+        280.6326582987258,
+        287.8575100597143,
+        295.0823618207028,
+        302.30721358169126,
+        309.53206534267974,
+        316.75691710366823,
+        323.9817688646567,
+        331.2066206256452,
+        338.4314723866337,
+        345.6563241476222,
+        352.8811759086106,
+        360.10602766959914,
+        367.33087943058763,
+        374.555731191576,
+        381.7805829525645,
+        389.005434713553,
+        396.23028647454146,
+        403.45513823552994,
+        410.67998999651843,
+        417.9048417575069,
+        425.1296935184954,
+        432.3545452794839,
+        439.5793970404724,
+        446.80424880146086,
+        454.02910056244934,
+        461.25395232343783,
+        468.4788040844263,
+        475.7036558454148,
+        482.9285076064033,
+        490.1533593673918,
+        497.37821112838026,
+        504.60306288936874,
+        511.82791465035723,
+        519.0527664113457,
+        526.2776181723341,
+        533.5024699333226,
+        540.7273216943111,
+        547.9521734552995,
+        555.177025216288,
+        562.4018769772765,
+        569.626728738265,
+        576.8515804992535,
+        584.076432260242,
+        591.3012840212305,
+        598.526135782219,
+        605.7509875432074,
+        612.9758393041959,
+        620.2006910651844,
+        627.4255428261729,
+        634.6503945871614,
+        641.8752463481497,
+        649.1000981091382,
+        656.3249498701267,
+        663.5498016311152,
+        670.7746533921037,
+        677.9995051530922
+      ],
+      "counts": [
+        3,
+        14,
+        52,
+        74,
+        101,
+        145,
+        179,
+        221,
+        289,
+        334,
+        395,
+        447,
+        472,
+        626,
+        653,
+        700,
+        790,
+        824,
+        869,
+        958,
+        958,
+        1066,
+        1128,
+        1081,
+        1193,
+        1177,
+        1271,
+        1297,
+        1337,
+        1268,
+        1366,
+        1379,
+        1298,
+        1236,
+        1239,
+        1162,
+        1137,
+        1082,
+        1072,
+        1019,
+        1070,
+        1003,
+        997,
+        969,
+        926,
+        959,
+        870,
+        839,
+        852,
+        840,
+        806,
+        738,
+        740,
+        670,
+        653,
+        583,
+        562,
+        511,
+        424,
+        427,
+        363,
+        316,
+        274,
+        295,
+        219,
+        195,
+        161,
+        158,
+        125,
+        111,
+        101,
+        87,
+        65,
+        54,
+        42,
+        31,
+        22,
+        12,
+        15,
+        3
+      ]
+    },
+    "cdf_points": [
+      {
+        "value": 100.0113642740138,
+        "cumulative_prob": 2e-05
+      },
+      {
+        "value": 136.57135632494408,
+        "cumulative_prob": 0.00504
+      },
+      {
+        "value": 147.8933672241102,
+        "cumulative_prob": 0.01006
+      },
+      {
+        "value": 156.84438459555844,
+        "cumulative_prob": 0.01508
+      },
+      {
+        "value": 163.30512882390963,
+        "cumulative_prob": 0.02012
+      },
+      {
+        "value": 168.9172420055186,
+        "cumulative_prob": 0.02514
+      },
+      {
+        "value": 174.0594801779861,
+        "cumulative_prob": 0.03016
+      },
+      {
+        "value": 178.59333146080792,
+        "cumulative_prob": 0.03518
+      },
+      {
+        "value": 182.74621721846918,
+        "cumulative_prob": 0.04022
+      },
+      {
+        "value": 186.86211407829248,
+        "cumulative_prob": 0.04524
+      },
+      {
+        "value": 190.42032814106167,
+        "cumulative_prob": 0.05026
+      },
+      {
+        "value": 194.4215868762958,
+        "cumulative_prob": 0.05528
+      },
+      {
+        "value": 197.4161725335846,
+        "cumulative_prob": 0.06032
+      },
+      {
+        "value": 200.06764441423925,
+        "cumulative_prob": 0.06534
+      },
+      {
+        "value": 203.15876375673054,
+        "cumulative_prob": 0.07036
+      },
+      {
+        "value": 205.5067305467881,
+        "cumulative_prob": 0.07538
+      },
+      {
+        "value": 208.5167151182759,
+        "cumulative_prob": 0.08042
+      },
+      {
+        "value": 211.18966829698212,
+        "cumulative_prob": 0.08544
+      },
+      {
+        "value": 213.5369051964297,
+        "cumulative_prob": 0.09046
+      },
+      {
+        "value": 216.2494597887649,
+        "cumulative_prob": 0.09548
+      },
+      {
+        "value": 218.55732474433776,
+        "cumulative_prob": 0.10052
+      },
+      {
+        "value": 220.76980150428102,
+        "cumulative_prob": 0.10554
+      },
+      {
+        "value": 223.15042293338846,
+        "cumulative_prob": 0.11056
+      },
+      {
+        "value": 225.2936594256929,
+        "cumulative_prob": 0.11558
+      },
+      {
+        "value": 227.67630377400477,
+        "cumulative_prob": 0.12062
+      },
+      {
+        "value": 229.72136421758853,
+        "cumulative_prob": 0.12564
+      },
+      {
+        "value": 231.7924401064976,
+        "cumulative_prob": 0.13066
+      },
+      {
+        "value": 233.97408954321844,
+        "cumulative_prob": 0.13568
+      },
+      {
+        "value": 235.91973411495061,
+        "cumulative_prob": 0.14072
+      },
+      {
+        "value": 238.0323040436973,
+        "cumulative_prob": 0.14574
+      },
+      {
+        "value": 240.02102643329152,
+        "cumulative_prob": 0.15076
+      },
+      {
+        "value": 241.86852096726713,
+        "cumulative_prob": 0.15578
+      },
+      {
+        "value": 243.7053457094824,
+        "cumulative_prob": 0.16082
+      },
+      {
+        "value": 245.6613606393481,
+        "cumulative_prob": 0.16584
+      },
+      {
+        "value": 247.62799017682354,
+        "cumulative_prob": 0.17086
+      },
+      {
+        "value": 249.45445012263505,
+        "cumulative_prob": 0.17588
+      },
+      {
+        "value": 251.27702849577713,
+        "cumulative_prob": 0.18092
+      },
+      {
+        "value": 253.12238935907712,
+        "cumulative_prob": 0.18594
+      },
+      {
+        "value": 254.9496696439383,
+        "cumulative_prob": 0.19096
+      },
+      {
+        "value": 256.60141918509447,
+        "cumulative_prob": 0.19598
+      },
+      {
+        "value": 258.27992237438036,
+        "cumulative_prob": 0.20102
+      },
+      {
+        "value": 259.85636727554646,
+        "cumulative_prob": 0.20604
+      },
+      {
+        "value": 261.443310335424,
+        "cumulative_prob": 0.21106
+      },
+      {
+        "value": 262.9565881399304,
+        "cumulative_prob": 0.21608
+      },
+      {
+        "value": 264.71171247976963,
+        "cumulative_prob": 0.22112
+      },
+      {
+        "value": 266.2521786471486,
+        "cumulative_prob": 0.22614
+      },
+      {
+        "value": 267.9574984073421,
+        "cumulative_prob": 0.23116
+      },
+      {
+        "value": 269.72991913475687,
+        "cumulative_prob": 0.23618
+      },
+      {
+        "value": 271.4461129195936,
+        "cumulative_prob": 0.24122
+      },
+      {
+        "value": 273.0317543979771,
+        "cumulative_prob": 0.24624
+      },
+      {
+        "value": 274.41548612672125,
+        "cumulative_prob": 0.25126
+      },
+      {
+        "value": 276.0303877412509,
+        "cumulative_prob": 0.25628
+      },
+      {
+        "value": 277.6953225763717,
+        "cumulative_prob": 0.26132
+      },
+      {
+        "value": 279.1607917326332,
+        "cumulative_prob": 0.26634
+      },
+      {
+        "value": 280.60932214276227,
+        "cumulative_prob": 0.27136
+      },
+      {
+        "value": 282.0441056390453,
+        "cumulative_prob": 0.27638
+      },
+      {
+        "value": 283.6142972655657,
+        "cumulative_prob": 0.28142
+      },
+      {
+        "value": 285.31976675600947,
+        "cumulative_prob": 0.28644
+      },
+      {
+        "value": 286.76264657668764,
+        "cumulative_prob": 0.29146
+      },
+      {
+        "value": 288.27780593239106,
+        "cumulative_prob": 0.29648
+      },
+      {
+        "value": 289.6921288615946,
+        "cumulative_prob": 0.30152
+      },
+      {
+        "value": 291.08025831426437,
+        "cumulative_prob": 0.30654
+      },
+      {
+        "value": 292.4986575277562,
+        "cumulative_prob": 0.31156
+      },
+      {
+        "value": 293.9638203581711,
+        "cumulative_prob": 0.31658
+      },
+      {
+        "value": 295.3787117053849,
+        "cumulative_prob": 0.32162
+      },
+      {
+        "value": 296.7445441251673,
+        "cumulative_prob": 0.32664
+      },
+      {
+        "value": 298.20100659778615,
+        "cumulative_prob": 0.33166
+      },
+      {
+        "value": 299.561213347617,
+        "cumulative_prob": 0.33668
+      },
+      {
+        "value": 300.90086937779336,
+        "cumulative_prob": 0.34172
+      },
+      {
+        "value": 302.4080656059115,
+        "cumulative_prob": 0.34674
+      },
+      {
+        "value": 303.7484604488495,
+        "cumulative_prob": 0.35176
+      },
+      {
+        "value": 305.1862601622699,
+        "cumulative_prob": 0.35678
+      },
+      {
+        "value": 306.51768069139285,
+        "cumulative_prob": 0.36182
+      },
+      {
+        "value": 307.94506180408825,
+        "cumulative_prob": 0.36684
+      },
+      {
+        "value": 309.1935862326266,
+        "cumulative_prob": 0.37186
+      },
+      {
+        "value": 310.5125371126233,
+        "cumulative_prob": 0.37688
+      },
+      {
+        "value": 311.90784031559133,
+        "cumulative_prob": 0.38192
+      },
+      {
+        "value": 313.35759241127727,
+        "cumulative_prob": 0.38694
+      },
+      {
+        "value": 314.7940065763586,
+        "cumulative_prob": 0.39196
+      },
+      {
+        "value": 316.3366001780493,
+        "cumulative_prob": 0.39698
+      },
+      {
+        "value": 317.68664506800826,
+        "cumulative_prob": 0.40202
+      },
+      {
+        "value": 319.0851276648031,
+        "cumulative_prob": 0.40704
+      },
+      {
+        "value": 320.3852489917751,
+        "cumulative_prob": 0.41206
+      },
+      {
+        "value": 321.7455891909108,
+        "cumulative_prob": 0.41708
+      },
+      {
+        "value": 323.02701849239475,
+        "cumulative_prob": 0.42212
+      },
+      {
+        "value": 324.38686092498597,
+        "cumulative_prob": 0.42714
+      },
+      {
+        "value": 325.6144150995778,
+        "cumulative_prob": 0.43216
+      },
+      {
+        "value": 326.865509209576,
+        "cumulative_prob": 0.43718
+      },
+      {
+        "value": 328.1441651235448,
+        "cumulative_prob": 0.44222
+      },
+      {
+        "value": 329.4414986661772,
+        "cumulative_prob": 0.44724
+      },
+      {
+        "value": 330.91252128219946,
+        "cumulative_prob": 0.45226
+      },
+      {
+        "value": 332.2639739489575,
+        "cumulative_prob": 0.45728
+      },
+      {
+        "value": 333.608480365757,
+        "cumulative_prob": 0.46232
+      },
+      {
+        "value": 335.02010996879693,
+        "cumulative_prob": 0.46734
+      },
+      {
+        "value": 336.3473014760854,
+        "cumulative_prob": 0.47236
+      },
+      {
+        "value": 337.9277022039382,
+        "cumulative_prob": 0.47738
+      },
+      {
+        "value": 339.2748225918493,
+        "cumulative_prob": 0.48242
+      },
+      {
+        "value": 340.8846594737842,
+        "cumulative_prob": 0.48744
+      },
+      {
+        "value": 342.3180570635084,
+        "cumulative_prob": 0.49246
+      },
+      {
+        "value": 343.74012799057436,
+        "cumulative_prob": 0.49748
+      },
+      {
+        "value": 345.17970974635443,
+        "cumulative_prob": 0.50252
+      },
+      {
+        "value": 346.8532737173334,
+        "cumulative_prob": 0.50754
+      },
+      {
+        "value": 348.3053345767945,
+        "cumulative_prob": 0.51256
+      },
+      {
+        "value": 349.84821060198567,
+        "cumulative_prob": 0.51758
+      },
+      {
+        "value": 351.20297091211125,
+        "cumulative_prob": 0.52262
+      },
+      {
+        "value": 352.545976704542,
+        "cumulative_prob": 0.52764
+      },
+      {
+        "value": 354.2794865215391,
+        "cumulative_prob": 0.53266
+      },
+      {
+        "value": 355.7025230490912,
+        "cumulative_prob": 0.53768
+      },
+      {
+        "value": 357.13739721149557,
+        "cumulative_prob": 0.54272
+      },
+      {
+        "value": 358.7141255452959,
+        "cumulative_prob": 0.54774
+      },
+      {
+        "value": 360.30404786425925,
+        "cumulative_prob": 0.55276
+      },
+      {
+        "value": 361.9159078251939,
+        "cumulative_prob": 0.55778
+      },
+      {
+        "value": 363.52517317860753,
+        "cumulative_prob": 0.56282
+      },
+      {
+        "value": 365.08762586670883,
+        "cumulative_prob": 0.56784
+      },
+      {
+        "value": 366.7177617682754,
+        "cumulative_prob": 0.57286
+      },
+      {
+        "value": 368.32730289025784,
+        "cumulative_prob": 0.57788
+      },
+      {
+        "value": 370.21929269463095,
+        "cumulative_prob": 0.58292
+      },
+      {
+        "value": 371.77452379117466,
+        "cumulative_prob": 0.58794
+      },
+      {
+        "value": 373.4006559964773,
+        "cumulative_prob": 0.59296
+      },
+      {
+        "value": 375.0569417402781,
+        "cumulative_prob": 0.59798
+      },
+      {
+        "value": 376.6961898233097,
+        "cumulative_prob": 0.60302
+      },
+      {
+        "value": 378.32964121410197,
+        "cumulative_prob": 0.60804
+      },
+      {
+        "value": 380.1175672303678,
+        "cumulative_prob": 0.61306
+      },
+      {
+        "value": 381.8636200389075,
+        "cumulative_prob": 0.61808
+      },
+      {
+        "value": 383.56891330050473,
+        "cumulative_prob": 0.62312
+      },
+      {
+        "value": 385.39406268604205,
+        "cumulative_prob": 0.62814
+      },
+      {
+        "value": 387.23689608643235,
+        "cumulative_prob": 0.63316
+      },
+      {
+        "value": 388.99062316034934,
+        "cumulative_prob": 0.63818
+      },
+      {
+        "value": 390.64275813774736,
+        "cumulative_prob": 0.64322
+      },
+      {
+        "value": 392.40254743139303,
+        "cumulative_prob": 0.64824
+      },
+      {
+        "value": 394.07606480554807,
+        "cumulative_prob": 0.65326
+      },
+      {
+        "value": 395.75422664327266,
+        "cumulative_prob": 0.65828
+      },
+      {
+        "value": 397.4630932722201,
+        "cumulative_prob": 0.66332
+      },
+      {
+        "value": 399.24478801640555,
+        "cumulative_prob": 0.66834
+      },
+      {
+        "value": 401.1132908820179,
+        "cumulative_prob": 0.67336
+      },
+      {
+        "value": 402.9888623156043,
+        "cumulative_prob": 0.67838
+      },
+      {
+        "value": 404.80667275749005,
+        "cumulative_prob": 0.68342
+      },
+      {
+        "value": 406.685614194008,
+        "cumulative_prob": 0.68844
+      },
+      {
+        "value": 408.45111461385943,
+        "cumulative_prob": 0.69346
+      },
+      {
+        "value": 410.30018249395147,
+        "cumulative_prob": 0.69848
+      },
+      {
+        "value": 411.99399304677695,
+        "cumulative_prob": 0.70352
+      },
+      {
+        "value": 413.90227296114455,
+        "cumulative_prob": 0.70854
+      },
+      {
+        "value": 415.7295971790983,
+        "cumulative_prob": 0.71356
+      },
+      {
+        "value": 417.7160904730665,
+        "cumulative_prob": 0.71858
+      },
+      {
+        "value": 419.7596126325594,
+        "cumulative_prob": 0.72362
+      },
+      {
+        "value": 421.71971714288753,
+        "cumulative_prob": 0.72864
+      },
+      {
+        "value": 423.5905361620326,
+        "cumulative_prob": 0.73366
+      },
+      {
+        "value": 425.7401112702207,
+        "cumulative_prob": 0.73868
+      },
+      {
+        "value": 427.5478161813097,
+        "cumulative_prob": 0.74372
+      },
+      {
+        "value": 429.40834436840595,
+        "cumulative_prob": 0.74874
+      },
+      {
+        "value": 431.23524630196056,
+        "cumulative_prob": 0.75376
+      },
+      {
+        "value": 433.0178678732536,
+        "cumulative_prob": 0.75878
+      },
+      {
+        "value": 434.95255520636437,
+        "cumulative_prob": 0.76382
+      },
+      {
+        "value": 437.262563731259,
+        "cumulative_prob": 0.76884
+      },
+      {
+        "value": 439.4703270201579,
+        "cumulative_prob": 0.77386
+      },
+      {
+        "value": 441.7266437947911,
+        "cumulative_prob": 0.77888
+      },
+      {
+        "value": 443.8261794530618,
+        "cumulative_prob": 0.78392
+      },
+      {
+        "value": 445.9236480202277,
+        "cumulative_prob": 0.78894
+      },
+      {
+        "value": 447.9924631544339,
+        "cumulative_prob": 0.79396
+      },
+      {
+        "value": 450.26430472850217,
+        "cumulative_prob": 0.79898
+      },
+      {
+        "value": 452.33434064413836,
+        "cumulative_prob": 0.80402
+      },
+      {
+        "value": 454.5184544966567,
+        "cumulative_prob": 0.80904
+      },
+      {
+        "value": 456.749729382843,
+        "cumulative_prob": 0.81406
+      },
+      {
+        "value": 458.7952567693058,
+        "cumulative_prob": 0.81908
+      },
+      {
+        "value": 461.0396575211101,
+        "cumulative_prob": 0.82412
+      },
+      {
+        "value": 463.52940699207136,
+        "cumulative_prob": 0.82914
+      },
+      {
+        "value": 465.7095598898846,
+        "cumulative_prob": 0.83416
+      },
+      {
+        "value": 467.69077905428867,
+        "cumulative_prob": 0.83918
+      },
+      {
+        "value": 470.12749674456114,
+        "cumulative_prob": 0.84422
+      },
+      {
+        "value": 472.53986803594177,
+        "cumulative_prob": 0.84924
+      },
+      {
+        "value": 475.0136699713867,
+        "cumulative_prob": 0.85426
+      },
+      {
+        "value": 477.59735191272375,
+        "cumulative_prob": 0.85928
+      },
+      {
+        "value": 479.81271825192846,
+        "cumulative_prob": 0.86432
+      },
+      {
+        "value": 482.3987704290931,
+        "cumulative_prob": 0.86934
+      },
+      {
+        "value": 484.9967800416832,
+        "cumulative_prob": 0.87436
+      },
+      {
+        "value": 487.7827031904741,
+        "cumulative_prob": 0.87938
+      },
+      {
+        "value": 490.4099255562108,
+        "cumulative_prob": 0.88442
+      },
+      {
+        "value": 493.1640374725014,
+        "cumulative_prob": 0.88944
+      },
+      {
+        "value": 495.93791917301303,
+        "cumulative_prob": 0.89446
+      },
+      {
+        "value": 498.9415440437173,
+        "cumulative_prob": 0.89948
+      },
+      {
+        "value": 502.00086781293095,
+        "cumulative_prob": 0.90452
+      },
+      {
+        "value": 505.0293312521961,
+        "cumulative_prob": 0.90954
+      },
+      {
+        "value": 508.22170063902206,
+        "cumulative_prob": 0.91456
+      },
+      {
+        "value": 511.65436131312117,
+        "cumulative_prob": 0.91958
+      },
+      {
+        "value": 515.116581252462,
+        "cumulative_prob": 0.92462
+      },
+      {
+        "value": 518.7889775043269,
+        "cumulative_prob": 0.92964
+      },
+      {
+        "value": 522.683058267185,
+        "cumulative_prob": 0.93466
+      },
+      {
+        "value": 527.2803249431327,
+        "cumulative_prob": 0.93968
+      },
+      {
+        "value": 531.5243301085717,
+        "cumulative_prob": 0.94472
+      },
+      {
+        "value": 536.0817980086698,
+        "cumulative_prob": 0.94974
+      },
+      {
+        "value": 541.2048476075638,
+        "cumulative_prob": 0.95476
+      },
+      {
+        "value": 547.0212802954696,
+        "cumulative_prob": 0.95978
+      },
+      {
+        "value": 553.4892978840655,
+        "cumulative_prob": 0.96482
+      },
+      {
+        "value": 559.3189646479472,
+        "cumulative_prob": 0.96984
+      },
+      {
+        "value": 567.2765043640665,
+        "cumulative_prob": 0.97486
+      },
+      {
+        "value": 576.0320992052589,
+        "cumulative_prob": 0.97988
+      },
+      {
+        "value": 587.1617673462861,
+        "cumulative_prob": 0.98492
+      },
+      {
+        "value": 600.8064111403445,
+        "cumulative_prob": 0.98994
+      },
+      {
+        "value": 618.9386412965091,
+        "cumulative_prob": 0.99496
+      },
+      {
+        "value": 677.9995051530922,
+        "cumulative_prob": 1.0
+      }
+    ]
+  },
+  "probability_analysis": {
+    "expected_return": 0.328334741770801,
+    "probability_upside": 0.77462,
+    "probability_above_20pct": 0.59246,
+    "probability_below_20pct": 0.08868,
+    "upside_capture": 126.82162461126228,
+    "downside_capture": 48.311261672162786,
+    "risk_reward_ratio": 2.6250944442698665,
+    "var_5": 190.2554027819479,
+    "var_10": 218.28924989009604,
+    "cvar_5": 164.8772638763825,
+    "max_loss_pct": -0.6240739577732153,
+    "probability_above_cost": null
+  },
+  "inputs": [
+    {
+      "name": "forward_metric",
+      "label": "FY+1 EPS ($)",
+      "type": "triangular",
+      "spec": {
+        "type": "triangular",
+        "low": 18.5,
+        "mode": 24.77,
+        "high": 27.0
+      },
+      "sampled_summary": {
+        "mean": 23.411197675003024,
+        "median": 23.627703669668584,
+        "std": 1.7959453095486517,
+        "p5": 20.13113695505694,
+        "p10": 20.805690629788515,
+        "p25": 22.140160369306166,
+        "p75": 24.807326585301,
+        "p90": 25.618387681627638,
+        "p95": 26.0384870345291
+      },
+      "histogram": {
+        "edges": [
+          18.523496430420654,
+          18.73521155158143,
+          18.946926672742208,
+          19.158641793902984,
+          19.37035691506376,
+          19.582072036224538,
+          19.793787157385314,
+          20.005502278546093,
+          20.21721739970687,
+          20.428932520867644,
+          20.640647642028423,
+          20.8523627631892,
+          21.064077884349977,
+          21.275793005510753,
+          21.48750812667153,
+          21.699223247832307,
+          21.910938368993083,
+          22.12265349015386,
+          22.334368611314638,
+          22.546083732475413,
+          22.75779885363619,
+          22.969513974796968,
+          23.181229095957743,
+          23.39294421711852,
+          23.604659338279298,
+          23.816374459440077,
+          24.028089580600852,
+          24.239804701761628,
+          24.451519822922407,
+          24.663234944083182,
+          24.874950065243958,
+          25.086665186404737,
+          25.298380307565512,
+          25.510095428726288,
+          25.721810549887067,
+          25.933525671047843,
+          26.145240792208618,
+          26.356955913369397,
+          26.568671034530173,
+          26.780386155690948,
+          26.992101276851727
+        ],
+        "counts": [
+          58,
+          129,
+          211,
+          279,
+          385,
+          469,
+          559,
+          691,
+          741,
+          748,
+          963,
+          936,
+          1047,
+          1186,
+          1168,
+          1400,
+          1408,
+          1478,
+          1578,
+          1677,
+          1743,
+          1906,
+          1941,
+          2044,
+          2102,
+          2142,
+          2245,
+          2313,
+          2354,
+          2304,
+          2242,
+          1963,
+          1771,
+          1508,
+          1293,
+          1013,
+          895,
+          595,
+          397,
+          118
+        ]
+      }
+    },
+    {
+      "name": "multiple",
+      "label": "P/E Multiple",
+      "type": "triangular",
+      "spec": {
+        "type": "triangular",
+        "low": 7.0,
+        "mode": 16.4,
+        "high": 19.4,
+        "historical_metric": "pe_multiple"
+      },
+      "sampled_summary": {
+        "mean": 14.249648973651095,
+        "median": 14.62384831302329,
+        "std": 2.6598796609435746,
+        "p5": 9.374042494971249,
+        "p10": 10.332148180093354,
+        "p25": 12.36904310999482,
+        "p75": 16.35463418152317,
+        "p90": 17.47330550760136,
+        "p95": 18.03583897867284
+      },
+      "histogram": {
+        "edges": [
+          7.0574873393268005,
+          7.365663553877643,
+          7.673839768428485,
+          7.982015982979328,
+          8.290192197530171,
+          8.598368412081014,
+          8.906544626631856,
+          9.214720841182698,
+          9.52289705573354,
+          9.831073270284383,
+          10.139249484835226,
+          10.447425699386068,
+          10.75560191393691,
+          11.063778128487755,
+          11.371954343038595,
+          11.68013055758944,
+          11.98830677214028,
+          12.296482986691124,
+          12.604659201241965,
+          12.91283541579281,
+          13.22101163034365,
+          13.529187844894494,
+          13.837364059445337,
+          14.145540273996179,
+          14.453716488547022,
+          14.761892703097864,
+          15.070068917648708,
+          15.378245132199549,
+          15.686421346750393,
+          15.994597561301234,
+          16.302773775852078,
+          16.61094999040292,
+          16.919126204953763,
+          17.227302419504603,
+          17.535478634055448,
+          17.84365484860629,
+          18.151831063157132,
+          18.460007277707973,
+          18.768183492258817,
+          19.076359706809658,
+          19.384535921360502
+        ],
+        "counts": [
+          56,
+          134,
+          205,
+          361,
+          387,
+          477,
+          551,
+          674,
+          729,
+          870,
+          896,
+          956,
+          1018,
+          1118,
+          1147,
+          1218,
+          1372,
+          1427,
+          1555,
+          1582,
+          1691,
+          1712,
+          1867,
+          1909,
+          1965,
+          2099,
+          2154,
+          2153,
+          2359,
+          2431,
+          2431,
+          2228,
+          1945,
+          1636,
+          1433,
+          1143,
+          942,
+          647,
+          385,
+          137
+        ]
+      }
+    }
+  ],
+  "tornado": [
+    {
+      "input": "multiple",
+      "label": "P/E Multiple",
+      "p10_fair_value": 244.12493547035132,
+      "p90_fair_value": 412.8540846631929,
+      "input_p10": 10.332148180093354,
+      "input_p90": 17.47330550760136,
+      "variance_share": 0.43778565140928016
+    },
+    {
+      "input": "forward_metric",
+      "label": "FY+1 EPS ($)",
+      "p10_fair_value": 304.2592638177172,
+      "p90_fair_value": 374.63941548034694,
+      "input_p10": 20.805690629788515,
+      "input_p90": 25.618387681627638,
+      "variance_share": 0.2804609865173838
+    }
+  ],
+  "concentration": {
+    "is_concentrated": false,
+    "top_drivers": [
+      [
+        "multiple",
+        0.43778565140928016
+      ],
+      [
+        "forward_metric",
+        0.2804609865173838
+      ],
+      [
+        "catalyst:KB801 / KB803 Ophthalmology Readouts (end 2026)",
+        0.2693661574428702
+      ],
+      [
+        "catalyst:Germany VYJUVEK Pricing Resolution Q3 2026",
+        0.01238720463046584
+      ]
+    ],
+    "concentration_pct": 0.718246637926664,
+    "message": "No single input dominates. Top 2 explain 72% of variance. This is a multi-driver thesis."
+  },
+  "catalysts": [
+    {
+      "name": "KB801 / KB803 Ophthalmology Readouts (end 2026)",
+      "outcomes": {
+        "both_positive": {
+          "probability": 0.3,
+          "value_impact": 1.25,
+          "impact_type": "multiplicative"
+        },
+        "one_positive": {
+          "probability": 0.4,
+          "value_impact": 1.05,
+          "impact_type": "multiplicative"
+        },
+        "neither_positive": {
+          "probability": 0.3,
+          "value_impact": 0.78,
+          "impact_type": "multiplicative"
+        }
+      }
+    },
+    {
+      "name": "Germany VYJUVEK Pricing Resolution Q3 2026",
+      "outcomes": {
+        "positive_catch_up": {
+          "probability": 0.55,
+          "value_impact": 1.05,
+          "impact_type": "multiplicative"
+        },
+        "in_line": {
+          "probability": 0.35,
+          "value_impact": 1.0,
+          "impact_type": "multiplicative"
+        },
+        "negative_adjustment": {
+          "probability": 0.1,
+          "value_impact": 0.93,
+          "impact_type": "multiplicative"
+        }
+      }
+    }
+  ],
+  "scenarios": {
+    "KB801 / KB803 Ophthalmology Readouts (end 2026) | both_positive": {
+      "catalyst": "KB801 / KB803 Ophthalmology Readouts (end 2026)",
+      "outcome_label": "both_positive",
+      "mean_fair_value": 429.31593838042335
+    },
+    "KB801 / KB803 Ophthalmology Readouts (end 2026) | one_positive": {
+      "catalyst": "KB801 / KB803 Ophthalmology Readouts (end 2026)",
+      "outcome_label": "one_positive",
+      "mean_fair_value": 360.2396756083773
+    },
+    "KB801 / KB803 Ophthalmology Readouts (end 2026) | neither_positive": {
+      "catalyst": "KB801 / KB803 Ophthalmology Readouts (end 2026)",
+      "outcome_label": "neither_positive",
+      "mean_fair_value": 267.8708072301149
+    },
+    "Germany VYJUVEK Pricing Resolution Q3 2026 | positive_catch_up": {
+      "catalyst": "Germany VYJUVEK Pricing Resolution Q3 2026",
+      "outcome_label": "positive_catch_up",
+      "mean_fair_value": 363.94230187579086
+    },
+    "Germany VYJUVEK Pricing Resolution Q3 2026 | in_line": {
+      "catalyst": "Germany VYJUVEK Pricing Resolution Q3 2026",
+      "outcome_label": "in_line",
+      "mean_fair_value": 345.8054147143988
+    },
+    "Germany VYJUVEK Pricing Resolution Q3 2026 | negative_adjustment": {
+      "catalyst": "Germany VYJUVEK Pricing Resolution Q3 2026",
+      "outcome_label": "negative_adjustment",
+      "mean_fair_value": 321.9175668441207
+    }
+  }
+}

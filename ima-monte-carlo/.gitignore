@@ -1,0 +1,19 @@
+pitches/*
+!pitches/.gitkeep
+output/*
+!output/.gitkeep
+__pycache__/
+*.pyc
+
+# Peer fundamentals cache (regenerated weekly)
+data/peer_cache/
+
+# Webapp build artifacts
+webapp/node_modules/
+webapp/dist/
+
+# Drafts — local-only experiments, not deployed
+webapp/public/pitches/_drafts/
+
+# Streamlit local secrets (not used today, but reserved)
+.streamlit/secrets.toml
